@@ -1,0 +1,37 @@
+{
+  "type": "module",
+  "scripts": {
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.26.3",
+    "@chromatic-com/storybook": "^3",
+    "@storybook/addon-a11y": "^8.5.1",
+    "@storybook/addon-essentials": "^8.5.1",
+    "@storybook/addon-interactions": "^8.5.1",
+    "@storybook/addon-links": "^8.5.1",
+    "@storybook/addon-onboarding": "^8.5.2",
+    "@storybook/addon-themes": "^8.5.1",
+    "@storybook/blocks": "^8.5.1",
+    "@storybook/react": "^8.5.1",
+    "@storybook/react-vite": "^8.5.1",
+    "@storybook/test": "^8.5.2",
+    "@storybook/theming": "^8.5.2",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "prop-types": "^15.8.1",
+    "react": "^19.0.0",
+    "react-aria-components": "^1.6.0",
+    "react-dom": "^19.0.0",
+    "storybook": "^8.5.2",
+    "storybook-dark-mode": "^4.0.2",
+    "typescript": "5.7.3",
+    "vite": "^6.0.7"
+  },
+  "resolutions": {
+    "@types/mime": "3.0.4",
+    "jackspeak": "2.1.1"
+  }
+}
