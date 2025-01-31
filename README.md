@@ -3,7 +3,7 @@
 NOTE: This is simply an updated version of the [starter kit download](https://react-spectrum.adobe.com/react-aria/getting-started.html) - upgrading to Storybook 8 including a theme switcher for light and dark modes in Storybook. 
 
 
-[![Alternate Text](react-aria-starter.jpg)](react-aria-starter.mp4 "Link Title")
+[![React Aria Starter](react-aria-starter.jpg)](react-aria-starter.mp4 "React Aria Starter")
 
 Welcome to React Aria! This starter kit includes a [Storybook](https://storybook.js.org/) containing all of the examples in the docs. You can modify any of the components or their corresponding CSS files to play around or bootstrap your own component library.
 
